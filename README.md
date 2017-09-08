@@ -1,5 +1,5 @@
 Population Projections by County
-
+ 
 [![Build Status](https://travis-ci.org/CT-Data-Collaborative/population-projections-by-county.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/population-projections-by-county)
 
 Population Projections by County reports the projected population of Connecticut, disaggregated by county, gender and age cohort, in 5-year intervals.
